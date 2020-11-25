@@ -10,5 +10,7 @@ class ExamplesTest {
     Karate testAll() {
         return Karate.run().relativeTo(getClass());
     }
+
+
     
 }
