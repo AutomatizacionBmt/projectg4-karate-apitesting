@@ -1,4 +1,3 @@
-
 Feature: Issues redmine test script
 
   Background:
